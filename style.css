@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 174, 174);
+}
+h1{
+font-size: 4.5rem;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    border: 5px solid black;
+    border-radius: 15px;
+    background-color: black;
+
+}
+form .okk{
+    
+    border-radius: 10px;
+    border: 2px solid rgb(242, 115, 115);
+}
